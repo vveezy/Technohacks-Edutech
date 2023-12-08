@@ -1,0 +1,6 @@
+Hello everyone! 👋
+Trying out SQL Injection with Burp Suite🌐
+In my cybersecurity and ethical hacking internship at @TechnoHacks EduTech Official under the guidance of Mr Sandip Gavit, I recently tackled the task of
+learning how to use Burp Suite, an important tool for cybersecurity pros. After setting up Burp Suite, I uploaded the SQL.txt file used for the attack. 
+Then, I looked for a special status, 200, that network experts love because it means we have authorized access – we're in! Copy the payload and paste it
+for a successful login on your target website.
