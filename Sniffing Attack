@@ -1,0 +1,8 @@
+Sniffing Attack using Wireshark
+📍Target Site: http://testphp.vulnweb.com
+Statement: I had the opportunity to study and utilize the Wireshark packet analysis tool to gain a deeper understanding of its functionality.
+Wireshark, a powerful network protocol analyzer, is an essential tool for network troubleshooting and analysis
+A sniffing attack involves intercepting and capturing data packets as they travel across a network. Attackers can analyze these packets to obtain valuable information, such as login credentials, personal data, or financial details.
+My specific focus was on deciphering the methods employed to extract usernames and passwords from an HTTP website.
+I extend my heartfelt appreciation to TechnoHacks EduTech Official and Sandip Gavit for generously providing me with this invaluable opportunity, which allowed me to enhance my cybersecurity skills.
+ 
